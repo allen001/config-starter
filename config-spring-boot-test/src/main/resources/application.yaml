@@ -1,0 +1,5 @@
+com:
+  math:
+    config:
+      ip: 127.0.0.1
+      id: 测试

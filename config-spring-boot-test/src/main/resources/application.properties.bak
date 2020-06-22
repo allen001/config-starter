@@ -1,0 +1,12 @@
+#设置spring-boot 编码格式
+# banner.charset=UTF-8
+server.tomcat.uri-encoding=UTF-8
+spring.http.encoding.charset=UTF-8
+spring.http.encoding.enabled=true
+spring.http.encoding.force=true
+spring.messages.encoding=UTF-8
+
+# id标识
+com.math.config.id=math的IP配置
+# ip配置
+com.math.config.ip=127.0.0.1
